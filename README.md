@@ -1,2 +1,2 @@
-# yadwinder_kaur.github.io
+# yadwinder_kaur
 My portfolio
