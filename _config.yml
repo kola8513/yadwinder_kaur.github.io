@@ -1,0 +1,7 @@
+title: "Yadwinder Kaur — Portfolio"
+email: yadwinder.kaur@uol.de
+description: "Portfolio and projects"
+baseurl: ""     # user site: keep empty
+url: "https://kola8513.github.io"
+theme: minima
+plugins: []
